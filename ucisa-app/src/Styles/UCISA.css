@@ -1,0 +1,18 @@
+.main {
+  margin-top: 80px;
+  height: 100vh; 
+  background: linear-gradient(#ffc284, #ffffff 33%, #ffffff 66%, #60db55);
+  background-size: cover; 
+  background-position: center; 
+}
+
+.main p {
+  font-size: 30px;
+}
+
+.main h1 {
+  font-size: 100px;
+  font-family: 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  justify-content: center;
+}
