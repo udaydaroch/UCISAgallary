@@ -13,7 +13,6 @@ footer {
   justify-content: center;
   align-self: center;
   height: 30px;
-  padding: 0 2rem;
   background-color: var(--mainColor);
   color: var(--textColor);
 }

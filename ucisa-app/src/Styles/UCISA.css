@@ -16,3 +16,9 @@
   display: flex;
   justify-content: center;
 }
+
+@media only screen and (max-width: 1024px) { 
+  .main p {
+    font-size: 30px;
+  }
+}

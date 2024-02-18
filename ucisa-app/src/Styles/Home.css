@@ -1,3 +1,15 @@
-.text-center{
-  margin-top: 700px;
-} 
+.container-fluid {
+  position: relative; 
+}
+
+.text-center {
+  
+  position: absolute; /* Set the text position to absolute */
+  top: 89%; /* Position the text 50% from the top of the container */
+  left: 50%; /* Position the text 50% from the left of the container */
+  transform: translate(-50%, -50%); /* Center the text horizontally and vertically */
+}
+
+.text-center h1 {
+  font-size: 25px;
+}
