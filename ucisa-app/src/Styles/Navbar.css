@@ -32,6 +32,7 @@ header {
 
 header img {
   border: 1px solid rgb(211, 220, 140);
+  border-radius: 50%;
   height: 90%;
 }
 nav a {
